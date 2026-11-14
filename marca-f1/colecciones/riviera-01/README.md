@@ -31,3 +31,13 @@ Si se prefiere arriesgar menos, se puede empezar con 3 piezas (La Riviera, Vuelt
 - Muestras de cada prenda en el color final.
 - Arte final de cada diseño, listo para el taller.
 - Fotos para redes y para la tienda.
+
+## Modelo de venta: preventa (decidido por Helen, 13 nov 2026)
+Primero se abren las redes y se vende en preventa. Solo con pedidos confirmados se compran las prendas y se mandan a estampar o bordar.
+
+Para que funcione:
+- **Una muestra por pieza** para las fotos. Con mockups solos la marca no se ve de lujo.
+- **Ventanas de preventa** con fecha de cierre (por ejemplo, 10 días), no pedidos sueltos todo el tiempo. Así los pedidos se juntan en un solo lote, el estampado sale más barato y la escasez refuerza el lujo.
+- **Pago completo o 50 % por adelantado** al confirmar el pedido.
+- **Tiempo de entrega claro** desde el principio, por ejemplo 15 días hábiles después del cierre.
+- **Técnica que funcione con pocas unidades:** DTF para estampados y bordado por unidad. La serigrafía suele pedir un mínimo de unidades.
