@@ -1,6 +1,14 @@
-# Plan de la marca F1 (borrador)
+# Plan de la marca F1
 
-1. **Identidad de marca:** nombre, logo (cursiva + serif), paleta (crema, azul marino, rojo carrera, negro lavado) y tono. Resultado: guía de marca en `identidad/`.
-2. **Concepto e investigación:** temas para las piezas (circuitos, épocas, autos, pilotos de leyenda) sin usar marcas registradas, público objetivo y precios de marcas parecidas. Resultado: documento en `investigacion/`.
-3. **Primera colección cápsula:** 5 o 6 piezas (camisetas oversize, manga larga, buzo) con fichas técnicas y mockups. Resultado: carpeta en `colecciones/`.
-4. **Producción y lanzamiento:** proveedores en Colombia (tela pesada, serigrafía, bordado), costos por pieza, precio de venta y plan de redes para el lanzamiento.
+Dirección: old money + Fórmula 1, diseño propio inspirado (sin logos oficiales).
+
+1. ✅ **Investigación de mercado:** `investigacion/mercado.md`.
+2. ✅ **Costos y precios:** `precios.md` (falta reemplazar estimados por cotizaciones reales).
+3. ⏳ **Identidad de marca:** nombre, logo (cursiva + serif), paleta y tono. Resultado: guía de marca en `identidad/`.
+4. **Primera colección cápsula:** 4 a 6 piezas con fichas técnicas y mockups, en `colecciones/`.
+5. **Validación y lanzamiento:** Instagram/TikTok, encuesta, preventa y watch party.
+
+## Pendientes de Helen
+- Preguntar a Etanol el gramaje, el pedido mínimo y los colores disponibles, y pedir muestras.
+- Cotizar estampado y bordado (técnica, tamaño, precio por unidad).
+- Buscar un proveedor de tejido de punto para polos y suéteres.
