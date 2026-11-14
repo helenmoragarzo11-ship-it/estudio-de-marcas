@@ -29,7 +29,14 @@ En 2030, ser el club de moda de automovilismo de referencia en Latinoamérica, r
 >
 > Cada prenda cuenta una lección real de la historia de la F1. Cada compra es una carrera dentro del club. Y cada rookie, un futuro campeón.
 
-**Falta tu parte, Helen:** una o dos frases sobre cómo llegaste tú a la F1 y por qué creaste Monoposto. Las marcas con una fundadora visible generan mucha más confianza. Ejemplo: "Me enamoré de la F1 en [año] viendo [momento], y no encontraba ropa que se sintiera elegante y que contara esa historia."
+### La historia de la fundadora
+> Llegué a la Fórmula 1 por los pilotos. Después vinieron las películas, y ahí me enamoré de verdad: de la velocidad, pero sobre todo de lo que no se ve. La F1 no es correr por correr. Es estrategia, es aerodinámica, es pensar cada décima.
+>
+> Cuando quise llevar eso puesto, no encontré nada. O era ropa de fan que no te pondrías un día cualquiera, o era ropa elegante que no decía nada de lo que amas. Muy pocas marcas tenían las dos cosas.
+>
+> Por eso creé Monoposto: para que puedas llevar la Fórmula 1 un martes cualquiera y sentirte elegante. Yo también fui rookie. Todos lo fuimos.
+>
+> — Helen, fundadora
 
 Detalle completo: [identidad/historia-de-marca.md](identidad/historia-de-marca.md).
 
@@ -171,7 +178,8 @@ Series, formatos, ritmo semanal y tono: [redes/estrategia-contenido.md](redes/es
 9. **Mensaje personal por WhatsApp** a la lista de espera el día que abre la preventa, con acceso 24 horas antes que el público. (N1)
 10. **Cuenta regresiva de chasis** en historias durante la preventa ("Quedan 6 chasis de Debut"). (N1)
 11. **Unboxing de la licencia de rookie** en la primera entrega, y repost de cada cliente. (N2)
-12. **Primer watch party** para la primera carrera de 2027, con la lista de espera y los compradores como invitados. (M5, N2)
+12. **Carta de la fundadora:** publicación o reel con la historia de Helen ("Yo también fui rookie"), el día que se abre el perfil o el día que abre la preventa. (M1, N1)
+13. **Primer watch party** para la primera carrera de 2027, con la lista de espera y los compradores como invitados. (M5, N2)
 
 ---
 

@@ -115,6 +115,9 @@ Para empezar sin agotarse: **4 publicaciones por semana más historias**. Prepar
 18. Las curvas más famosas del mundo.
 19. Glosario rookie: 10 palabras que vas a escuchar en la transmisión.
 20. Cómo nace una prenda Monoposto: de la lección al bordado.
+21. Aerodinámica para rookies: por qué un auto de F1 se "pega" al piso. (El tema favorito de Helen.)
+22. Estrategia para rookies: por qué una parada en boxes puede ganar una carrera.
+23. "Yo también fui rookie": la historia de la fundadora.
 
 Los temas 7, 12 y 15 tienen datos que conviene verificar justo antes de publicarlos.
 
