@@ -48,3 +48,6 @@ No usar "F1", "Formula 1", nombres o logos de escuderías, pilotos ni fabricante
 ## Verificaciones pendientes
 - Existe el **Monoposto Racing Club**, una serie de carreras en Reino Unido. No vende ropa en Colombia, pero hay que confirmar en la **SIC** que "Monoposto" esté libre en clase 25 (ropa).
 - Revisar si el usuario @monoposto está libre en Instagram y TikTok. Si no, sirven variantes como @monoposto.co o @monopostoclub.
+
+## Tablero visual
+Versión publicada: https://claude.ai/artifact/7Fvu5RtwEL4qnMVw3QWA3R (copia de las fuentes en `tablero/`).
