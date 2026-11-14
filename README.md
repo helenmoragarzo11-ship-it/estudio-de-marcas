@@ -4,7 +4,7 @@ Repositorio de las marcas de ropa de Helen. Cada marca tiene su propia carpeta, 
 
 | Carpeta | Marca | Estado |
 |---|---|---|
-| [`marca-f1/`](marca-f1/) | Marca de lujo inspirada en la Fórmula 1 y sus escuderías | En planeación |
+| [`marca-f1/`](marca-f1/) | **Monoposto**: marca old money inspirada en la Fórmula 1 | En planeación |
 | [`marca-2/`](marca-2/) | Por definir | Idea |
 | [`marca-3/`](marca-3/) | Por definir | Idea |
 | [`compartido/`](compartido/) | Plan general, proveedores y costos comunes | — |
