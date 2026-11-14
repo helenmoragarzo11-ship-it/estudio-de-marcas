@@ -9,6 +9,6 @@ Marca de ropa con estética de lujo inspirada en la Fórmula 1 y sus escuderías
 - `colecciones/`: una subcarpeta por colección con piezas, telas y precios.
 - `referencias/`: ideas visuales, incluidos los tableros de Pinterest.
 
-## Decisión pendiente
+## Decisiones
 
-Usar nombres o logos oficiales de escuderías requiere licencia. Hay que decidir si la marca va con licencia o con diseño propio inspirado en el automovilismo.
+- **Diseño propio inspirado (13 nov 2026):** la marca no usa nombres ni logos oficiales de F1, escuderías, pilotos ni fabricantes. Trabaja con nombre propio, autos y circuitos ilustrados de forma genérica, años y frases.
