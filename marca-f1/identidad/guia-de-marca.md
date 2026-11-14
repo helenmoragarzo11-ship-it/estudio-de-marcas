@@ -23,16 +23,18 @@ Nombre elegido por Helen el 13 de noviembre de 2026.
 3. **Escudo:** óvalo o escudo con una "M", el número de carrera **00** y "Est. 2026".
 4. **Sello pequeño:** un monoplaza antiguo de perfil, dibujado en línea, para puños, etiquetas y cierres.
 
-## Colores (paleta Herencia británica, elegida el 13 nov 2026)
+## Colores (paleta Costa Azul, elegida el 13 nov 2026)
+Helen la eligió porque el azul cielo es llamativo y se ve poco en ropa.
+
 | Nombre | Uso | HEX |
 |---|---|---|
-| Crema Riviera | Fondo y color principal de prendas | #F2EBDD |
-| Verde Carreras | Color principal oscuro | #1F3D2B |
-| Amarillo Dorado | Luz de la marca: firma, bordados, detalles | #E3B448 |
-| Burdeos | Acentos pequeños: números, franjas | #6E1F2A |
-| Carbón | Textos y prendas oscuras | #2B2A26 |
+| Azul Costa | Color protagonista: prendas, fondos, redes | #9CC3DE |
+| Crema Riviera | Base de prendas y empaques | #F2EBDD |
+| Azul Monza | Textos, logos y prendas oscuras | #1C2A44 |
+| Naranja Carrera | Acentos pequeños: números, franjas | #E07B39 |
+| Blanco | Fondos limpios y etiquetas | #FFFFFF |
 
-Para una colección de verano se puede usar la paleta Costa Azul (azul cielo #9CC3DE y naranja #E07B39).
+Para texto pequeño en naranja sobre crema, usar el tono más oscuro #B4471C para que se lea bien.
 
 ## Tipografías (gratuitas en Google Fonts)
 - **Títulos y logotipo:** Cormorant Garamond o Playfair Display.
