@@ -1,0 +1,70 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,700;1,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>body{margin:0;background:transparent}</style></head><body>
+<div id="podio" style="width:1000px;padding:20px;box-sizing:content-box">
+<svg viewBox="0 0 1000 1160" width="1000" height="1160" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="3.2" fill="#111"/></pattern>
+<pattern id="dotsS" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="1.6" fill="#111"/></pattern>
+<radialGradient id="fade" cx="50%" cy="38%" r="65%"><stop offset="0" stop-color="#fff"/><stop offset=".45" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+<mask id="halftoneMask"><rect width="1000" height="1160" fill="url(#fade)"/></mask>
+<clipPath id="panel"><rect x="10" y="10" width="980" height="1140"/></clipPath>
+</defs>
+<g clip-path="url(#panel)">
+<rect x="10" y="10" width="980" height="1140" fill="#fff"/>
+<!-- rayos -->
+<g fill="#111" opacity=".9">
+<path d="M500 420 L 160 10 L 250 10 Z"/><path d="M500 420 L 380 10 L 450 10 Z"/><path d="M500 420 L 560 10 L 630 10 Z"/><path d="M500 420 L 760 10 L 850 10 Z"/>
+<path d="M500 420 L 990 120 L 990 210 Z"/><path d="M500 420 L 990 390 L 990 470 Z"/><path d="M500 420 L 10 120 L 10 210 Z"/><path d="M500 420 L 10 390 L 10 470 Z"/>
+<path d="M500 420 L 10 640 L 10 720 Z"/><path d="M500 420 L 990 640 L 990 720 Z"/>
+</g>
+<!-- trama de puntos hacia los bordes -->
+<rect x="10" y="10" width="980" height="1140" fill="url(#dots)" mask="url(#halftoneMask)"/>
+<!-- halo blanco detrás del piloto -->
+<ellipse cx="500" cy="520" rx="215" ry="330" fill="#fff"/>
+<!-- podio -->
+<g stroke="#fff" stroke-width="6">
+<rect x="150" y="860" width="234" height="300" fill="#111"/>
+<rect x="383" y="770" width="234" height="390" fill="#111"/>
+<rect x="616" y="910" width="234" height="250" fill="#111"/>
+</g>
+<g font-family="Space Mono, monospace" font-weight="700" fill="#fff" text-anchor="middle">
+<text x="267" y="960" font-size="80">2</text>
+<text x="500" y="890" font-size="110">1</text>
+<text x="733" y="1000" font-size="70">3</text>
+</g>
+<!-- silueta del piloto -->
+<g fill="#111" stroke="#111" stroke-linejoin="round" stroke-linecap="round">
+<path d="M455 770 L 486 770 L 498 640 L 512 770 L 545 770 L 538 610 L 462 610 Z"/>
+<path d="M460 615 L 540 615 L 552 488 C 552 470 532 460 500 460 C 468 460 448 470 448 488 Z"/>
+<line x1="545" y1="482" x2="598" y2="372" stroke-width="30" fill="none"/>
+<line x1="455" y1="482" x2="404" y2="380" stroke-width="30" fill="none"/>
+<circle cx="500" cy="428" r="30"/>
+<path d="M468 418 C 470 396 488 388 502 388 C 520 388 534 398 534 418 L 556 422 L 556 430 L 468 428 Z"/>
+<rect x="488" y="452" width="24" height="16"/>
+<!-- copa -->
+<path d="M572 290 L 626 290 C 626 330 612 346 599 348 C 586 346 572 330 572 290 Z"/>
+<path d="M572 300 C 552 300 552 326 576 330 M626 300 C 646 300 646 326 622 330" fill="none" stroke-width="7"/>
+<rect x="593" y="346" width="12" height="20"/>
+<rect x="581" y="362" width="36" height="10"/>
+<!-- botella -->
+<g transform="rotate(-30 404 384)"><rect x="384" y="296" width="40" height="96" rx="12"/><path d="M390 300 C 392 286 398 280 398 262 L 410 262 C 410 280 416 286 418 300 Z"/></g>
+</g>
+<!-- espuma de champaña -->
+<g fill="#111">
+<circle cx="360" cy="262" r="7"/><circle cx="338" cy="240" r="5"/><circle cx="318" cy="222" r="8"/><circle cx="300" cy="196" r="5"/><circle cx="344" cy="208" r="4"/><circle cx="372" cy="232" r="4"/><circle cx="292" cy="236" r="4"/><circle cx="326" cy="176" r="6"/><circle cx="276" cy="210" r="6"/><circle cx="352" cy="180" r="3"/>
+</g>
+<g fill="none" stroke="#111" stroke-width="4" stroke-linecap="round"><path d="M372 274 C 330 240 300 200 286 150"/><path d="M380 270 C 360 220 352 190 356 140"/></g>
+<!-- caja de texto superior -->
+<rect x="40" y="40" width="500" height="74" fill="#111"/>
+<text x="62" y="90" font-family="Space Mono, monospace" font-weight="700" font-size="30" letter-spacing="4" fill="#fff">MÓNACO · 01.06.2003</text>
+<!-- caja de texto inferior -->
+<rect x="560" y="1050" width="400" height="74" fill="#fff" stroke="#111" stroke-width="6"/>
+<text x="760" y="1098" text-anchor="middle" font-family="Cormorant Garamond, serif" font-style="italic" font-weight="600" font-size="34" fill="#111">En lo más alto.</text>
+</g>
+<rect x="10" y="10" width="980" height="1140" fill="none" stroke="#111" stroke-width="16"/>
+</svg>
+<div style="display:flex;justify-content:space-between;font-family:'Space Mono',monospace;font-size:24px;letter-spacing:.3em;color:#F2EBDD;margin-top:26px;padding:0 6px"><span>MONOPOSTO</span><span>Nº 12</span></div>
+</div>
+</body></html>
