@@ -30,3 +30,24 @@ La estética es más **club de carreras vintage** y lujo silencioso que merch de
 ## Ojo con las licencias
 
 Muchos pines usan nombres y logos oficiales (Ferrari, McLaren, el logo de F1, Porsche, Charles Leclerc). Para venderlos así se necesita licencia. Las marcas del tablero que no la tienen (Be Plain Studios, Sunday Racing Club, Serein, Flyboy Club) resuelven con nombre propio, autos ilustrados de forma genérica, circuitos, años y frases.
+
+## Pines nuevos (revisados el 15 de noviembre de 2026)
+
+El tablero pasó de 29 a 69 pines. Los nuevos cambian la dirección de las publicaciones: la protagonista es la prenda real, no el texto.
+
+**Cómo muestran la ropa**
+- Fotos reales: camiseta colgada en un gancho o en un perchero, doblada sobre concreto, puesta y vista de espalda, o sobre fondo negro o de cielo.
+- Polaroids en cuadrícula con los looks.
+- Catálogo tipo revista abierta, con todas las prendas en fila y sus nombres.
+- Ficha de producto o ficha técnica con anotaciones a mano en rojo: corte, tela, gramaje, color y técnica.
+- Recibo impreso con la prenda ("The Art of Essentials"), con fecha, ciudad y número.
+- Tabla de medidas con flechas y medidas a mano sobre personas.
+- Collage editorial tipo revista (GATE) y cuadrícula del feed de Instagram como presentación de marca.
+
+**Gráficos en las camisetas**
+- Gráficos grandes y cargados en la espalda: cuadrícula de cascos, varios autos ilustrados con una frase, fotos de carrera impresas y números grandes.
+
+## Qué cambia para Monoposto
+- Las publicaciones deben girar alrededor de la camiseta real. Las lecciones de historia pasan a ser el texto que acompaña la prenda.
+- Hace falta al menos una camiseta lisa de Etanol en azul cielo (unos $25.000) para fotografiarla: colgada, doblada y puesta de espalda.
+- Formatos para adaptar: ficha técnica anotada a mano, recibo del club, cuadrícula de polaroids, catálogo de la colección Riviera y tabla de medidas.
